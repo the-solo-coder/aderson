@@ -1,5 +1,7 @@
 # Site
 name: 'Aderson'
+title: 'Aderson'
+longtitle: 'This is Adersons blog.'
 description: 'This is Adersons blog.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
