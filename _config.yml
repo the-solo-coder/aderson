@@ -22,7 +22,7 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
+    aderson:
       name:           Aderson
       site:           https://colocoder.com
       avatar:         /assets/images/aderson.jpg
@@ -38,8 +38,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: aderson
+      avatar: /assets/images/aderson.jpg
       
   # all pages
   - scope:
