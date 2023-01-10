@@ -2,7 +2,8 @@
 layout: post
 title: "🎯 Set actionable goals"
 author: aderson
-categories: [newsletter, featured]
+categories: [newsletter]
+tags: [featured]
 image: assets/images/set-actionable-goals.png
 ---
 
