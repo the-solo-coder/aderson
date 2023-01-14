@@ -48,15 +48,12 @@ Today I bring to you a recording of [**my presentation about career in tech**](h
 **My personal update:**
 
 *   🐝 The past week was my first full week of the year. Busy bee: Very rushed but I'm happy with all that I've done, from personal, to college, and work, all got done. No one left behind. All my 5 teaching sections started well this week.
-
-    - 🎙️ I booked an interview with [Jon Skeet](https://stackoverflow.com/users/22656/jon-skeet) - one of the [all time high Stack Overflow contributors](https://stackoverflow.com/tags/list/topusers)! As I was writing the chapter about becoming a Stack Overflow contributor for the book, I realized that I only had one story and I needed two. So I sent 8 emails inviting various contributors to be interviewed for [The SoloCoder Podcast](https://solocoder.com/), and I got one of the top! The chat with Jon will be this coming Thursday. I will let you know how it went in the next newsletter.
-
-    - 🍿 I've been watching [Kaleidoscope](https://www.youtube.com/watch?v=YbArSoOP8XQ) on Netflix. No final verdict yet, but I'm enjoying.  
+* 🎙️ I booked an interview with [Jon Skeet](https://stackoverflow.com/users/22656/jon-skeet) - one of the [all time high Stack Overflow contributors](https://stackoverflow.com/tags/list/topusers)! As I was writing the chapter about becoming a Stack Overflow contributor for the book, I realized that I only had one story and I needed two. So I sent 8 emails inviting various contributors to be interviewed for [The SoloCoder Podcast](https://solocoder.com/), and I got one of the top! The chat with Jon will be this coming Thursday. I will let you know how it went in the next newsletter.
+* 🍿 I've been watching [Kaleidoscope](https://www.youtube.com/watch?v=YbArSoOP8XQ) on Netflix. No final verdict yet, but I'm enjoying.  
 
 * * *
 
 _“I don't like that man. I must get to know him better.” — Abraham Lincoln._
-
 * * *
 
 Cheers, hasta la vista and bye!
