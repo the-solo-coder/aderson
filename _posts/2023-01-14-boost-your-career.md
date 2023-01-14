@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🤯 Boost your career"
+title: "🚀 Boost your career"
 author: aderson
 categories: [newsletter]
 tags: [featured]
