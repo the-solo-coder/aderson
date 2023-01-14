@@ -2,7 +2,15 @@
 title: "About"
 layout: page-sidebar
 permalink: "/about"
-image: "/assets/images/screenshot.jpg"
+image: "/assets/images/aderson.jpg"
 comments: true
 ---
-Made with <i class="fa fa-heart text-danger"></i> by Sal [@wowthemesnet](https://www.wowthemes.net/category/free-themes-templates/).
+
+This is my blog where I express and experiment with ideas about code, career, education, and productivity.
+
+I usually have a lot to say about many things, but I know very little about anything, so fell free to move on to someone else less verbose and wiser.
+
+If you want to get in touch: aderson [dot] oliveira [at] gmail [dot] com 
+
+Cheers,
+Aderson
