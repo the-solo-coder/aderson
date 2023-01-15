@@ -2,7 +2,6 @@
 title: "About"
 layout: page-sidebar
 permalink: "/about"
-image: "/assets/images/aderson.jpg"
 comments: true
 ---
 
