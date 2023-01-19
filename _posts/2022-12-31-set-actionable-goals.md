@@ -4,7 +4,7 @@ title: "🎯 Set actionable goals"
 author: aderson
 categories: [newsletter]
 tags: [featured]
-image: assets/images/set-actionable-goals.png
+image: assets/images/set-actionable-goals.webp
 ---
 
 I bring to you links about **career**, how to **create a tree view with CSS** and how to **set action-driven goals** for 2023.

@@ -4,7 +4,7 @@ title: "🤖 ChatGPT - The robots are taking over"
 author: aderson
 categories: [newsletter]
 tags: [featured]
-image: assets/images/the-robots-are-taking-over.png
+image: assets/images/the-robots-are-taking-over.webp
 ---
 
 I bring to you links about a **revolutionary AI** tool, taking **smart notes**, and **coding puzzles** to help you with job interviews.

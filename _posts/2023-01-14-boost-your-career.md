@@ -4,7 +4,7 @@ title: "🚀 Boost your career"
 author: aderson
 categories: [newsletter]
 tags: [featured]
-image: assets/images/rocket.png
+image: assets/images/rocket.webp
 ---
 
 I bring to you a recording of [**my presentation about career in tech**](https://youtu.be/-erk8f59Hr8), a [**book review**](https://blog.seancoughlin.me/the-pragmatic-programmer-book-review), and access to [**Stack Overflow in prisons**](https://stackoverflow.blog/2022/10/20/introducing-the-overflow-offline-project/).
