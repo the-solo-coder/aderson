@@ -5,7 +5,7 @@ longtitle: 'This is Adersons blog.'
 description: 'This is Adersons blog.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-url: 'https://adersonoliveira.com'
+url: 'https://aderson.com'
 baseurl: '/'
 disqus: ''
 email: 'aderson.oliveira@gmail.com'
@@ -24,7 +24,7 @@ plugins:
 authors:
     aderson:
       name:           Aderson
-      site:           https://colocoder.com
+      site:           https://solocoder.com
       avatar:         /assets/images/aderson.jpg
       bio:            "Hello Hello! Aderson Oliveira Here! I'm a Solo Coder."
       email:          aderson.oliveira@gmail.com
