@@ -6,8 +6,6 @@ categories: [newsletter]
 image: assets/images/is-coding-an-art.webp
 ---
 
-Hello Hello!
-
 I'm super excited to write the first newsletter!
 
 My goal will usually be to bring things that can inspire you (no practical use 🤪), can help you now (to move your career forward 🤑), and can help you in the future (to be ready for what's next 🤔).

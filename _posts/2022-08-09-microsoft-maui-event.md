@@ -6,8 +6,6 @@ categories: [newsletter]
 image: assets/images/microsoft-maui-event.webp
 ---
 
-Hello Hello!
-
 I decided to send the first email already cause it is relevant for tomorrow Tuesday August 9th. Microsoft has an online event tomorrow starting **12pm EST (Toronto Time)**.
 
 Details at: [https://focus.dotnetconf.net/agenda](https://focus.dotnetconf.net/agenda)

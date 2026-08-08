@@ -6,8 +6,6 @@ categories: [newsletter]
 image: assets/images/its-not-all-roses-in-tech.webp
 ---
 
-Hello Hello!
-
 I'm a very positive person but sometimes we have to discuss things that are not that good. In today's newsletter you will find an article about layoffs in tech.
 
 Here are the 3 things I have selected for you this week:
