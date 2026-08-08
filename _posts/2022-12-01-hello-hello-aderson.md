@@ -2,7 +2,7 @@
 layout: post
 title: "Hello, Hello! Aderson Oliveira Here!"
 author: aderson
-categories: [news]
+categories: [personal]
 image: assets/images/hello-hello.webp
 ---
 
