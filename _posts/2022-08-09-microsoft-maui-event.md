@@ -3,6 +3,7 @@ layout: post
 title: "🏝️ Microsoft MAUI Event"
 author: aderson
 categories: [newsletter]
+image: assets/images/microsoft-maui-event.webp
 ---
 
 Hello Hello!

@@ -3,6 +3,7 @@ layout: post
 title: "🎨 Is coding an art?"
 author: aderson
 categories: [newsletter]
+image: assets/images/is-coding-an-art.webp
 ---
 
 Hello Hello!

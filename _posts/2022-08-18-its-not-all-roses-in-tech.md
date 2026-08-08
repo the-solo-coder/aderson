@@ -3,6 +3,7 @@ layout: post
 title: "🥀 It's not all roses in Tech"
 author: aderson
 categories: [newsletter]
+image: assets/images/its-not-all-roses-in-tech.webp
 ---
 
 Hello Hello!
