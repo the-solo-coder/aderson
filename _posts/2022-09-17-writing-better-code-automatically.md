@@ -4,8 +4,8 @@ title: "🧹 Writing better code automatically"
 author: aderson
 categories: [newsletter]
 ---
-*"Why do Java programmers have to wear glasses? Because they can't C#"  
-*- Thanks to one of my students for this joke! 🤣
+"Why do Java programmers have to wear glasses? Because they can't C#"  
+- Thanks to one of my students for this joke! 🤣
 
 Ethereum has merged this week. What does that mean? Today I have two videos and one article. One of them will talk about Ethereum.
 
