@@ -3,7 +3,6 @@ layout: post
 title: "🌟 The Prestige of Big Tech Companies"
 author: aderson
 categories: [newsletter]
-image: assets/images/newsletters/the-prestige-of-big-tech-companies.webp
 ---
 *"Programming jokes are fun... but only when executed properly."*  
 🤣 source: [Jokes Buzz](https://jokesbuzz.com/programming-jokes/)

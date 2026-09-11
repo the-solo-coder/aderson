@@ -5,7 +5,6 @@ author: aderson
 categories: [newsletter]
 image: assets/images/newsletters/lazy-can-be-good.webp
 ---
-![](/assets/images/newsletters/lazy-can-be-good-2.webp)  
 🤣 source: [MokeyUser.com](https://www.monkeyuser.com/2019/bug-free/)
 
 Today I'm bringing to you a way to be **more productive**, a way to **improve user experience** with image loading and some good news: **you have chosen the right career!**

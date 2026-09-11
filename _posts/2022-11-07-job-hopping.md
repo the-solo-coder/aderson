@@ -5,8 +5,6 @@ author: aderson
 categories: [newsletter]
 image: assets/images/newsletters/job-hopping.webp
 ---
-![](/assets/images/newsletters/job-hopping-2.webp)
-
 🤣 (thanks to [Eduardo Mendonca](https://www.linkedin.com/in/mendoncaeduardo/)) - source: [Know Your Meme](https://knowyourmeme.com/photos/527565-i-see-dead-people)
 
 Today I'm showcasing a great conversation about changing jobs, a course on an app that helps with [API](https://en.wikipedia.org/wiki/API) testing, and an amazing tool that has blown my mind to the current capabilities of AI!
