@@ -5,7 +5,6 @@ author: aderson
 categories: [newsletter]
 image: assets/images/newsletters/dracula-ui.webp
 ---
-![](/assets/images/newsletters/dracula-ui-2.webp)  
 🤣 source: [Reader's Digest](https://www.rd.com/article/halloween-jokes/)
 
 Today I'm bringing to you an article about a person who loves to help, a spooky tool and a question: "Are we Engineers?".
